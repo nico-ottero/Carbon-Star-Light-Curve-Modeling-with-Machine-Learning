@@ -1,0 +1,1 @@
+⚠️ Este repositorio contiene sólo los archivos principales. El proyecto completo —incluyendo notebooks, visualizaciones y resultados— fue desarrollado originalmente fuera de GitHub y está disponible en Kaggle:
